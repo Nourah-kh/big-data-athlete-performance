@@ -29,6 +29,6 @@ It focuses on analyzing sleep and wellness data collected from wearable devices 
 
 ## Team Members
 - Nourah Albarrak  
-- Baylasan Khalid Almuqati  
-- Leen Abdulaziz Alharbi  
-- Lina Hamad Aljasir
+- Baylasan Almuqati  
+- Leen Alharbi  
+- Lina Aljasir
